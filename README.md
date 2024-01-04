@@ -6,7 +6,7 @@
 
 - **Morada:** Urbanização dos Pinhais Bastos, Rua A, n.º 62, 4430-668 Avintes, Portugal
 - **Telefone:** +351 93 5569108
-- **Email:** rodaspinto@gmail.com
+- **Email:** rodaspinto005@gmail.com // al81475@ua.pt
 
 ## Educação/Formação
 
