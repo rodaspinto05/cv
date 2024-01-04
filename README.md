@@ -66,6 +66,3 @@
   - A1 (Motociclos até 125 cm³)
   - A2 (Motociclos até 35kw)
   - B (Veículos ligeiros)
-
-
-![image](https://github.com/rodaspinto05/cv/assets/155320712/a2b6f199-b320-4a48-bb22-18568de74536)
