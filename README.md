@@ -1,5 +1,3 @@
-# cv
-
 # Curriculum Vitae
 
 ## Informação Pessoal
