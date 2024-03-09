@@ -29,7 +29,12 @@
 
 ## Aptidões e Competências Técnicas
 
-- **Conhecimentos básicos de ...**
+- **Conhecimentos básicos de linguagem C**
+- **Conhecimentos básicos de linguagem Python**
+- **Conhecimentos básicos de linguagem Java**
+- **Conhecimentos básicos de linguagem HTML**
+- **Conhecimentos básicos de linguagem CSS**
+- **Conhecimentos básicos de linguagem JavaScript**
 
 ## Aptidões e Competências Sociais
 
