@@ -5,15 +5,15 @@
 ## Informação Pessoal
 
 - **Morada:** Urbanização dos Pinhais Bastos, Rua A, n.º 62, 4430-668 Avintes, Portugal
-- **Telefone:** +351 93 5569108
-- **Email:** rodaspinto005@gmail.com // al81475@ua.pt
+- **Telefone:** +351 935569108
+- **Email:** rodaspinto005@gmail.com // 48852@alunos.upt.pt
 
 ## Educação/Formação
 
 - **Ensino Básico:** 2012-2020, Colégio Cedros
 - **Ensino Secundário:** 2021-2023, Colégio Cedros
 - **Ensino Superior:** setembro de 2023, Estudante Universitário
-  - Universidade de Trás-os-Montes e Alto Douro (UTAD)
+  - Universidade Portucalense
   - 1.º ano do Curso de Engenharia Informática
 
 ## Competências Linguísticas
