@@ -1,71 +1,70 @@
 # Curriculum Vitae
 
-## Informação Pessoal
+## Personal Information
 
-- **Morada:** Urbanização dos Pinhais Bastos, Rua A, n.º 62, 4430-668 Avintes, Portugal
-- **Telefone:** +351 935569108
+- **Address:** Urbanização dos Pinhais Bastos, Rua A, n.º 62, 4430-668 Avintes, Portugal
+- **Phone:** +351 935569108
 - **Email:** rodaspinto005@gmail.com // 48852@alunos.upt.pt
 
-## Educação/Formação
+## Education
 
-- **Ensino Básico:** 2012-2020, Colégio Cedros
-- **Ensino Secundário:** 2021-2023, Colégio Cedros
-- **Ensino Superior:** setembro de 2023, Estudante Universitário
-  - Universidade Portucalense
-  - 1.º ano do Curso de Engenharia Informática
+- **Primary Education:** 2012-2020, Cedros School
+- **Secondary Education:** 2021-2023, Cedros School
+- **Higher Education:** September 2023, University Portucalense
+  - 1st year of Computer Engineering course
 
-## Competências Linguísticas
+## Language Skills
 
-- **Língua Materna:** Português
-- **Outras Línguas:**
-  - Inglês
-    - Compreensão oral: B1*
-    - Leitura: B1*
-    - Interação oral: B1*
-    - Produção oral: B1*
-    - *Nível certificado pelo Cambridge English
+- **Native Language:** Portuguese
+- **Other Languages:**
+  - English
+    - Listening Comprehension: B1*
+    - Reading: B1*
+    - Oral Interaction: B1*
+    - Oral Production: B1*
+    - *Level certified by Cambridge English
 
-## Aptidões e Competências Técnicas
+## Technical Skills
 
-- **Conhecimentos básicos de linguagem C**
-- **Conhecimentos básicos de linguagem Python**
-- **Conhecimentos básicos de linguagem Java**
-- **Conhecimentos básicos de linguagem HTML**
-- **Conhecimentos básicos de linguagem CSS**
-- **Conhecimentos básicos de linguagem JavaScript**
+- **Basic knowledge of C language**
+- **Basic knowledge of Python language**
+- **Basic knowledge of Java language**
+- **Basic knowledge of HTML language**
+- **Basic knowledge of CSS language**
+- **Basic knowledge of JavaScript language**
 
-## Aptidões e Competências Sociais
+## Social Skills
 
-- **Responsável**
-- **Dinâmico**
-- **Iniciativa**
-- **Capacidade de autoaprendizagem e de adaptação a novas situações**
-- **Capacidade de trabalho individual**
+- **Responsible**
+- **Dynamic**
+- **Initiative**
+- **Ability to self-learn and adapt to new situations**
+- **Individual work capacity**
 
-## Outras Aptidões e Competências
+## Other Skills
 
-- **Prática Desportiva:**
-  - 2007-2013: Natação
-  - 2009-2012: Futebol
+- **Sports Practice:**
+  - 2007-2013: Swimming
+  - 2009-2012: Football
   - 2012-2014: Taekwondo
-  - 2013-2020: Natação de Competição
-- **Voluntariado:**
-  - 2021: Voluntariado nos “Jogos Juvenis” da Freguesia de Avintes
-  - 2022: Voluntariado no Grupo de Teatro “Plebeus Avintenses”
+  - 2013-2020: Competitive Swimming
+- **Volunteering:**
+  - 2021: Volunteer at "Jogos Juvenis" in Avintes Parish
+  - 2022: Volunteer at the Theater Group "Plebeus Avintenses"
 
-## Informações Adicionais
+## Additional Information
 
-- **Prémios Nacionais:**
-  - 2018: Campeão Nacional 200 mts Costas
-  - 2018: Vice-Campeão Nacional a 100 mts Livres
-  - 2019: Campeão Nacional 200 mts Costas
-- **Recordes Nacionais:**
-  - 2020: Estafetas 50 mts Estilos (11º Meeting Internacional da Povoa de Varzim)
-  - 2020: Estafetas 50 mts Livres (11º Meeting Internacional da Povoa de Varzim)
+- **National Awards:**
+  - 2018: National Champion 200m Backstroke
+  - 2018: National Vice-Champion 100m Freestyle
+  - 2019: National Champion 200m Backstroke
+- **National Records:**
+  - 2020: Relay 50m Medley (11th International Meeting of Povoa de Varzim)
+  - 2020: Relay 50m Freestyle (11th International Meeting of Povoa de Varzim)
 
-## Carta de Condução
+## Driving License
 
-- **Categorias:**
-  - A1 (Motociclos até 125 cm³)
-  - A2 (Motociclos até 35kw)
-  - B (Veículos ligeiros)
+- **Categories:**
+  - A1 (Motorcycles up to 125 cm³)
+  - A2 (Motorcycles up to 35kw)
+  - B (Light vehicles)
