@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-- **Address:** Urbanização dos Pinhais Bastos, Rua A, n.º 62, 4430-668 Avintes, Portugal
+- **Address:** Urbanização dos Pinhais Bastos, Rua A, 4430 Avintes, Portugal
 - **Phone:** +351 935569108
 - **Email:** rodaspinto005@gmail.com // 48852@alunos.upt.pt
 
