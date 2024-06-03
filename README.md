@@ -28,7 +28,7 @@
 
 - **Basic knowledge of C language**
 - **Basic knowledge of Python language**
-- **Basic knowledge of Java language**
+- **Good Level of knowledge of Java language**
 - **Basic knowledge of HTML language**
 - **Basic knowledge of CSS language**
 - **Basic knowledge of JavaScript language**
